@@ -2,9 +2,9 @@
 Firebase FirestoreとMessageKitを用いたチャットアプリの作成
 
 ## 課題
-Viewを開くと
-Thread 1: EXC_BREAKPOINT (code=1, subcode=0x100c3c148)
-エラーが出る
+Viewを開くと  
+Thread 1: EXC_BREAKPOINT (code=1, subcode=0x100c3c148)  
+エラーが出る  
 user2UIDがnilであるのが原因？
 
 ## 参考サイト
